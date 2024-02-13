@@ -30,7 +30,7 @@ button {
     font-style: normal;
 }
 
-.link:hover, 
+.link:hover,
 .link:focus {
     color:var(--ocean);
 }
