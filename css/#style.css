@@ -13,8 +13,8 @@
 
 body {
     font-family: "Roboto", sans-serif;
-    color: var(--slate);
-    background-color: var(--white);
+    color:#434455;
+    background-color:#FFFFFF;
 }
 
 button {
@@ -32,17 +32,17 @@ button {
 
 .link:hover,
 .link:focus {
-    color: var(--ocean);
+    color:var(--ocean);
 }
 
 .page-logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.54px;
-    color: var(--iris);
-    text-transform: uppercase;
+    font-family:"Raleway",sans-serif;
+    font-weight:700;
+    font-size:18px;
+    line-height:1.17;
+    letter-spacing:0.03em;
+    color:#4d5ae5;
+    text-transform:uppercase;
 }
 
 .page-logo-colored {
@@ -50,17 +50,17 @@ button {
 }
 
 .page-header-link {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.32px;
+    font-size:16px;
+    font-weight:500;
+    line-height:1.5;
+    letter-spacing:0.02em;
     color: var(--navyblue);
 }
 
 .page-header-contact {
     font-size: 16px;
-    letter-spacing: 0.32px;
-    line-height: 1.5;
+    letter-spacing:0.02em;
+    line-height:1.5;
     color: var(--state);
 }
 
@@ -78,21 +78,21 @@ button {
 }
 
 .main-title {
-    text-align: center;
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 1.12px;
-    color: var(--white);
+    text-align:center;
+    font-size:56px;
+    line-height:1.07;
+    letter: spacing 0.02em;;
+    color:var(--white);
 }
 
 .hero-btn {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
+    font-family:"Roboto",sans-serif;
+    font-size:16px;
     background-color: var(--iris);
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.64px;
-    color: var(--white);
+    font-weight:500;
+    line-height:1.5;
+    letter-spacing: 0.04em;;
+    color:var(--white);
 }
 
 .hero-btn:hover,
@@ -101,19 +101,19 @@ button {
 }
 
 .section-title {
-    text-align: center;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.72px;
-    text-transform: capitalize;
-    color: var(--navyblue);
+    text-align:center;
+    font-size:36px;
+    line-height:1.11;
+    letter-spacing:0.72px;
+    text-transform:capitalize;
+    color:var(--navyblue);
 }
 
 .benefits-title {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.4px;
+    font-size:20px;
+    font-weight:500;
+    line-height:1.2;
+    letter-spacing:0.02em;
     color: var(--navyblue);
 }
 
@@ -135,14 +135,14 @@ button {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
     color: var(--navyblue);
 }
 
 .team-member-position {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -154,21 +154,21 @@ button {
 }
 
 .footer-text {
-    font-size:18px;
-    line: height 1.17em;;
-    letter-spacing:0.03em;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
     color: var(--cloud);
 }
 
 .filter-btn {
     background-color: var(--cloud);
 
-    font-family:"Raleway", sans-serif;
-    border-style:none;
-    font-size: 8px;
-    font-weight:700;
-    line-height:1.17;
-    letter-spacing:0.03em;
+    font-family: "Roboto", sans-serif;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
     color: var(--iris);
 }
 
@@ -179,17 +179,16 @@ button {
 }
 
 .projects-title {
-    font-size:20px;
-    font-weight:500;
-    line-height:1.2;
-    letter-spacing:0.4px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
     color: var(--navyblue);
 }
 
 .projects-tag {
-    font-size:16px;
-    line-height:1.5;
-    letter-spacing:0.32px;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
     color: var(--slate);
 }
-
